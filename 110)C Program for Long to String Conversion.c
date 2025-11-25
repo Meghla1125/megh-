@@ -8,5 +8,5 @@ int main() {
     sprintf(s, "%ld", n);
     printf("%s", s);
 
-    return 0
+    return 0;
 }        
